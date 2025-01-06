@@ -73,8 +73,7 @@ python autosend.py
 
 ## 📜 Changelog
 
-### Version 1.0.0
-- Initial release
-- Basic message scheduling functionality
-- Magenta-colored interface
-- ASCII art banner
+### Version 1.1.0
+- Fixed bug where it won't send unless you press enter first
+- Added focus application feature
+  
